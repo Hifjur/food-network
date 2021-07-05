@@ -8,10 +8,18 @@ p{
     padding-bottom: 40px;
 }
 
-section{
+
+.showcase{
     display: flex;
     padding-left: 10%;
     padding-right: 10%;
+    
+}
+
+.showcase img{
+    width: 100%;
+    border: 1px solid white;
+    border-radius: 25px;
 }
 
 .mid-banner{
@@ -71,17 +79,6 @@ h2{
     box-shadow: 5px 5px 40px rgb(100, 100, 100);
 }
 
-
-.showcase{
-    display: flex;
-    
-}
-
-.showcase img{
-    width: 100%;
-    border: 1px solid white;
-    border-radius: 25px;
-}
 
 footer{
     background-color: rgb(17, 14, 14);
