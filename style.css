@@ -23,10 +23,15 @@ section{
 
 h1{
     font-size: 50px;
-    padding-top: 8%;
+    padding-top: 5%;
 
 }
 
+h2{
+    color: rgb(162, 197, 8);
+    text-align: center;
+    font-size: 40;
+}
 .Order_portion{
     width: 50%;
     padding-left: 10%;    
@@ -55,11 +60,7 @@ h1{
     border: 10px solid wheat;
 }
 
-h2{
-    color: cadetblue;
-    text-align: center;
-    font-size: 40;
-}
+
 
 .recipe{
     width: 100%;
@@ -70,9 +71,7 @@ h2{
     box-shadow: 5px 5px 40px rgb(100, 100, 100);
 }
 
-h3{
-    text-align: center;
-}
+
 .showcase{
     display: flex;
     
@@ -83,4 +82,14 @@ h3{
     border: 1px solid white;
     border-radius: 25px;
 }
-    
+
+footer{
+    background-color: rgb(17, 14, 14);
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+small{
+    padding-top: 70px;
+    margin-left: 35%;
+    color: white;
+}
