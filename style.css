@@ -3,6 +3,11 @@ body{
     margin: 0px;  
 }
 
+p{
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
 section{
     display: flex;
     padding-left: 10%;
@@ -18,7 +23,7 @@ section{
 
 h1{
     font-size: 50px;
-    padding-top: 10%;
+    padding-top: 8%;
 
 }
 
@@ -49,3 +54,33 @@ h1{
 #food{
     border: 10px solid wheat;
 }
+
+h2{
+    color: cadetblue;
+    text-align: center;
+    font-size: 40;
+}
+
+.recipe{
+    width: 100%;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 5px 5px 40px rgb(100, 100, 100);
+}
+
+h3{
+    text-align: center;
+}
+.showcase{
+    display: flex;
+    
+}
+
+.showcase img{
+    width: 100%;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+    
