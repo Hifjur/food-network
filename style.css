@@ -9,6 +9,12 @@ p{
 }
 
 
+h1{
+    font-size: 50px;
+    padding-top: 5%;
+
+}
+
 .showcase{
     display: flex;
     padding-left: 10%;
@@ -28,12 +34,6 @@ p{
     background-repeat: no-repeat;
 }
 
-
-h1{
-    font-size: 50px;
-    padding-top: 5%;
-
-}
 
 .center{
     color: rgb(61, 63, 52);
@@ -78,7 +78,7 @@ h1{
     border-radius: 25px;
     margin: 30px;
     padding: 25px;
-    box-shadow: 5px 5px 40px rgb(100, 100, 100);
+    box-shadow: 0 0 40px rgba(100, 100, 100, 0.205);
 }
 
 
